@@ -24,3 +24,5 @@
 ![image](https://user-images.githubusercontent.com/104165177/193749807-a0fb2a6e-7199-4caf-8b72-6e5f9f5af8e1.png)
 
 ### 📖 Go through the PPT in the repo for additional information regarding the time complexities,space complexity, example , algorithm ,comparision b/w different sorting algorithms .
+### Why is this repo ?
+- This is mostly for my personal learning and future references, but anyone can use it for learning purpose. ✌🏻
