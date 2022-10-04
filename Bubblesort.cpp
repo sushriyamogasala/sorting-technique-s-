@@ -1,3 +1,13 @@
+/*
+- In bubble sort, each element is compared with its adjacent element.
+- We begin with the 0th element and compare it with the 1st element.
+- If it is found to be greater than the 1st element, then they are interchanged.
+- In this way all the elements are compared(excluding last)with their next element and are interchanged if required.
+- On completing the first iteration , largest element gets placed at the last position. Similarity in second iteration second largest element gets placed at the second last position and so on.
+
+*/
+
+
 #include<iostream>
 
 #include<bits/stdc++.h>
